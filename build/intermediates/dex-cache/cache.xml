@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_d5879c240b85658343e42cc840a203a14dd9f929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\e2288014e3077bdd54343d63ba000d2bfab960d7\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_55172679d7abf2c2899f4c9d421e41df8c77c92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e538552ca2ca5559cc6d50075e31c612c2cb4107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\48ed771691c0452ebd4bc3977d33eec6a379cd19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_6765a116e446e1c5759953e2f8f31b98c8625736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\70f37becbe9c65436e9a0e5a9891099d74cc8a3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_103c8abffa7845d05795642a7fd31a986d67b29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\341f93dd7e738c29571aec57dcbee990137da549\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_c4759a24b2b649a19f8b9981c5476000f8c34c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\1ebb6423899edeaa73285e2736272bffa2c8c0ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_20fdc5dfd4fb4e502b52a62e16f0b9bd31a5badc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\e2288014e3077bdd54343d63ba000d2bfab960d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="176a45541313bf1b8f388c24a4ab57d65fc4ab96">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_e7a1fcf6c4b933ebd1fdc6025c407662e8259369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\1b391232c1939f7e733277292f2dadad4bd093d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_3d562c1bd9fa2964be7038e9d7574a171962a055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_2cd1481651938908cb7bf5cc645131fc70f38351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\48ed771691c0452ebd4bc3977d33eec6a379cd19\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_57624cf58bb2b72df966bdaff0955cab6961725d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\7af81e726f4feb6961fe40acac24f9c913d2cc08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_6801ca523c2d67306e3e303ac563527c2981c8d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_02d87b9716f5aa1bc47d32af8c881c489981a975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\aa14478ecf27c0a26614d1e61bfdd82cd2f57e8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_3f8aa167a49b19e28fb213fc5cb5f73c7d164422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\f2548da6b60d8cb02367bfc620b9fc80215e1bf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_62fcc03ebfe41bc6629e95aed845e5127fc935aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_75051ceec518979e1cd129311350234cc8ad4171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_2274746f76565e8b789be6e975732c52e8f85791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\b908568af7b3fa42d55a91e6b45ce64812596375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_0d399d33dc52902701ee567ce1fb9a97e50f950c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_c56f566417c16b5f6464666288857439b1e939ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_858624e8516dcb89860c197f0bfab34db138b385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Grégoire\.android\build-cache\ee801226cfd1e1e83a62724a64139c936c58668f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\classes_4fbedf0d5145a07b32ab16658e83f05b855a09c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\reactnative\auth\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_2cd1481651938908cb7bf5cc645131fc70f38351.jar" />
+    </item>
+
+</items>
